@@ -1,0 +1,11 @@
+.container{
+  background-color: gold;
+  text-align: center;
+  margin: 10%;
+  padding: 9px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+
+}
